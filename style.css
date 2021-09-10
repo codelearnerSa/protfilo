@@ -1,0 +1,60 @@
+body a ,p ,h1 {
+  color: white !important;  
+
+
+}
+.main {
+    background-color: #0000;
+}
+.manu-item a {
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 12px;
+    letter-spacing: 1.5px;
+    text-align: left;
+}
+.info-button{
+    margin-top: 213px;
+    background-color: #ffffff0e;;
+    width: 350px;
+    padding: 5px 0 5px 5px;
+    border-radius: 15px;  
+}
+
+.info-button1 {
+    background: #25AB75;
+    border: 0;
+    border-radius: 15px;
+    padding: 2px 10px;
+    margin-right: 3px;
+}
+.main-title{
+padding-bottom: 50px;
+color: white;
+font-size: 200px;
+font-style: normal;
+font-weight: 600;
+line-height: 170px;
+letter-spacing: -2px;
+text-align: left;
+}
+.main-btn {
+    background-color: #25AB75;
+    padding: 20px 60px;
+    text-decoration: none;
+    border-radius: 10px;
+     margin-top: 50px;
+     font-size: 18px;
+     font-weight: 600;
+    
+}
+.main-btn1 {
+    background-color: #ffffff17;
+    padding: 20px 60px;
+    text-decoration: none;
+    border-radius: 10px;
+    margin-top: 50px;
+    font-size: 18px;
+    font-weight: 600;
+    
+}
